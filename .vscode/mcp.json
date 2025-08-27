@@ -1,0 +1,18 @@
+{
+    "servers": {
+        "BuscadorEmpleosCumbre": {
+            "command": "C:\\Users\\Manuel Cabrera\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+            "args": [
+                "-m",
+                "uvicorn",
+                "app:app",
+                "--host",
+                "127.0.0.1",
+                "--port",
+                "8000"
+            ],
+            "cwd": "C:\\Users\\Manuel Cabrera\\Desktop\\Escritorio\\Proyectos\\Cumbre\\mcp-search",
+            "env": {}
+        }
+    }
+}

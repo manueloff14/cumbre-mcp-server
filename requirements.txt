@@ -1,0 +1,5 @@
+fastapi
+mcp[cli]
+pydantic
+requests
+uvicorn
